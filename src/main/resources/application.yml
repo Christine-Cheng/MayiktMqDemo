@@ -1,0 +1,9 @@
+spring:
+  data:
+
+
+
+
+# rabbit 账户密码
+rabbitmq_user: guest
+rabbitmq_pass: guest
